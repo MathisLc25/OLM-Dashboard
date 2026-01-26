@@ -1,4 +1,4 @@
-  LedgerOne - Financial Dashboard & Data Analysis
+  OLM - Financial Dashboard & Data Analysis
 
 > **Statut : Concept (POC) réalisée dans le cadre d'un test technique d'architecture logicielle.
 
